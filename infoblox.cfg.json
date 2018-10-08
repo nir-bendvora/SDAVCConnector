@@ -1,0 +1,17 @@
+{	"poll_time": "120",
+	"sdavc_ipv4addr": "10.10.10.10",
+	"sdavc_login": "xyz",
+	"sdavc_passwd": "xyz",
+	"entities":	[
+	{
+		"name": "ADMIN_SYSTEM",
+		"ipv4addr": "10.10.10.20",
+		"vrf_name": "global",
+		"wapi_version": "2.5",
+		"application_info": "TXT",
+		"user": "admin",
+		"passwd": "pass",
+		"zone_filters": "myzone.com", 
+		"segment": "mysegment"
+	}]
+}

@@ -1,0 +1,36 @@
+[
+    {
+        "_ref": "record:txt/ZG5zLmJpbmRfdHh0JC5fZGVmYXVsdC5jb20ubmlyYmQubmlyMS4iQ0lTQ08tQ0xTPWFwcC1uYW1lOk5pcjFBcHB8YXBwLWNsYXNzOlREfGJ1c2luZXNzOllFU3xzZXJ2ZXItcG9ydDpUQ1AvODB8YXBwLWlkOkNVLzEwIg:nir1.nirbd.com/default", 
+        "extattrs": {
+            "app-name": {
+                "value": "Nir1App"
+            }
+        }, 
+        "name": "nir1.nirbd.com", 
+        "text": "CISCO-CLS=app-name:Nir1App|app-class:TD|business:YES|server-port:TCP/80", 
+        "view": "default"
+    }, 
+    {
+        "_ref": "record:txt/ZG5zLmJpbmRfdHh0JC5fZGVmYXVsdC5jb20ubmlyYmQubmlyMi4iQ0lTQ08tQ0xTPWFwcC1uYW1lOk5pcjJBcHB8YXBwLWNsYXNzOlREfGJ1c2luZXNzOllFU3xzZXJ2ZXItcG9ydDpUQ1AvODB8YXBwLWlkOkNVLzIwIg:nir2.nirbd.com/default", 
+        "extattrs": {
+            "app-name": {
+                "value": "Nir2App"
+            }
+        }, 
+        "name": "nir2.nirbd.com", 
+        "text": "CISCO-CLS=app-name:Nir2App|app-class:TD|business:YES|server-port:TCP/80|app-id:CU/10", 
+        "view": "default"
+    },
+    {
+        "_ref": "record:txt/ZG5zLmJpbmRfdHh0JC5fZGVmYXVsdC5jb20ubmlyYmQubmlyMi4iQ0lTQ08tQ0xTPWFwcC1uYW1lOk5pcjJBcHB8YXBwLWNsYXNzOlREfGJ1c2luZXNzOllFU3xzZXJ2ZXItcG9ydDpUQ1AvODB8YXBwLWlkOkNVLzIwIg:nir3.nirbd.com/default", 
+        "extattrs": {
+            "app-name": {
+                "value": "Nir3App"
+            }
+        }, 
+        "name": "nir3.nirbd.com", 
+        "text": "CISCO-CLS=app-name:Nir3App|app-class:TD|business:YES|server-port:TCP/80", 
+        "view": "default"
+    },
+
+]

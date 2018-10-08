@@ -1,0 +1,11 @@
+{	"poll_time": "120",
+	"sdavc_ipv4addr": "10.10.10.10",
+	"sdavc_login": "xyz",
+	"sdavc_passwd": "xyz",
+	"entities":	[
+	{
+		"name": "CSV_FILE",
+		"filename": "apps.csv",
+		"segment": "mysegment"
+	}]
+}

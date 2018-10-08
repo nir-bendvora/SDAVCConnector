@@ -1,0 +1,64 @@
+[
+    {
+        "_ref": "record:a/ZG5zLmJpbmRfYSQuX2RlZmF1bHQuY29tLm5pcmJkLG5pcjEsMTAuMTAuMTAuMQ:nir1.nirbd.com/default", 
+        "extattrs": {
+            "app-class": {
+                "value": "TD"
+            }, 
+            "app-name": {
+                "value": "Nir1App"
+            }
+        }, 
+        "ipv4addr": "10.10.10.1", 
+        "name": "nir1.nirbd.com", 
+        "view": "default"
+    }, 
+    {
+        "_ref": "record:a/ZG5zLmJpbmRfYSQuX2RlZmF1bHQuY29tLm5pcmJkLG5pcjIsMTAuMTAuMTAuMg:nir2.nirbd.com/default", 
+        "extattrs": {
+            "app-name": {
+                "value": "Nir2App"
+            },
+            
+            "app-class": {
+                "value": "VO"
+            }
+        }, 
+        "ipv4addr": "10.10.10.2", 
+        "name": "nir2.nirbd.com", 
+        "view": "default"
+    }, 
+    {
+        "_ref": "record:a/ZG5zLmJpbmRfYSQuX2RlZmF1bHQuY29tLm5pcmJkLG5pcjMsMTAuMTAuMTAuMw:nir3.nirbd.com/default", 
+        "extattrs": {
+            "app-name": {
+                "value": "Nir3App"
+            }
+        }, 
+        "ipv4addr": "10.10.10.3", 
+        "name": "nir3.nirbd.com", 
+        "view": "default"
+    }, 
+    {
+        "_ref": "record:a/ZG5zLmJpbmRfYSQuX2RlZmF1bHQuY29tLm5pcmJkLG5pcjMsMTAuMTAuMTAuNQ:nir3.nirbd.com/default", 
+        "extattrs": {
+            "app-name": {
+                "value": "Nir3App"
+            }
+        }, 
+        "ipv4addr": "10.10.10.5", 
+        "name": "nir3.nirbd.com", 
+        "view": "default"
+    }, 
+    {
+        "_ref": "record:a/ZG5zLmJpbmRfYSQuX2RlZmF1bHQuY29tLm5pcmJkLG5pcjQsMTAuMTAuMTAuNA:nir4.nirbd.com/default", 
+        "extattrs": {
+            "app-name": {
+                "value": "Nir4App"
+            }
+        }, 
+        "ipv4addr": "10.10.10.4", 
+        "name": "nir4.nirbd.com", 
+        "view": "default"
+    }
+]

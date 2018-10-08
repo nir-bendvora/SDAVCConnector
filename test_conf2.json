@@ -1,0 +1,25 @@
+{	"poll_time": "15",
+	"entities":	[
+	{
+		"name": "test",
+		"ipv4addr": "10.56.74.251",
+		"vrf_name": "global",
+		"wapi_version": "2.5",
+		"application_info": "TXT",
+		"user": "admin",
+		"passwd": "infoblox",
+		"zone_filters": "nirbd.com", 
+		"segment": "global"
+	},
+	{
+		"name": "test2",
+		"ipv4addr": "10.56.74.255",
+		"vrf_name": "my-vrf",
+		"wapi_version": "2.1",
+		"application_info": "TXT",
+		"user": "admin1",
+		"passwd": "pass1",
+		"zone_filters": "a.com", 
+		"segment": "global"
+	}]
+}
